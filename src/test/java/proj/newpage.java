@@ -8,5 +8,6 @@ public class newpage {
 	public void page()
 	{
 		System.out.println("new browser page");
+		//1ST PUSH
 	}
 }
